@@ -8,7 +8,7 @@ The project imagines a record shop that doubles as an **intimate DJ event space*
 ---
 
 ## 🚀 Live Demo  
-👉 [View the Live Project on Netlify](https://fascinating-blancmange-456e5c.netlify.app/)
+👉 [View the Live Project on Netlify](https://kreuzbergrecords.netlify.app/)
 
 ---
 
@@ -36,7 +36,7 @@ The project imagines a record shop that doubles as an **intimate DJ event space*
 If you enjoyed this concept, feel free to reach out or share feedback!  
 
 📩 **Created by:** Abhishek Kumar  
-🌐 **Live Site:** [https://fascinating-blancmange-456e5c.netlify.app/](https://fascinating-blancmange-456e5c.netlify.app/)
+🌐 **Live Site:** [https://kreuzbergrecords.netlify.app/](https://kreuzbergrecords.netlify.app/)
 
 ---
 
